@@ -17,26 +17,26 @@
 
 ---
 
-## 🚀 Stack Tecnológico
+## Stack Tecnológico
 
-### 🎨 Frontend
+### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,react,astro,html,css,js" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
-### 🗄️ Base de Datos
+### Base de Datos
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
 ---
 
-## 🧠 Enfoque Profesional
+## Enfoque Profesional
 
 - Arquitectura modular y escalable
 - Separación clara de responsabilidades
@@ -47,7 +47,7 @@
 
 ---
 
-## 🏗️ Tecnologías principales
+## Tecnologías principales
 
 | Área | Tecnologías |
 |----|----|
@@ -59,13 +59,6 @@
 
 ---
 
-## 📈 Actualmente
-
-- Profundizando en **Vue 3 + Spring Boot**
-- Mejorando prácticas de **DevOps**
-- Documentación técnica y estándares de proyecto
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
