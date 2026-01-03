@@ -12,7 +12,8 @@
 
 <p align="center">
   Construyo aplicaciones web modernas, escalables y bien estructuradas.<br/>
-  Enfocado en buenas prácticas, rendimiento y mantenibilidad con tecnologias como: Vue 3, React.js, Astro, Java, Spring Boot y PostgreSQL
+  Enfocado en buenas prácticas, rendimiento y mantenibilidad con tecnologias como:
+  Vue 3, React.js, Astro, Java, Spring Boot y PostgreSQL
 </p>
 
 ---
