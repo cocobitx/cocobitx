@@ -4,7 +4,7 @@
 </p>
 
 <!-- PRESENTACIÓN -->
-<h1 align="center">👋 Hola, soy Desarrollador Web</h1>
+<h1 align="center">👋 Hola, Soy Cristhian</h1>
 
 <p align="center">
   <strong>Frontend • Backend • Arquitectura Moderna</strong>
