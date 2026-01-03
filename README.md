@@ -18,21 +18,8 @@
 
 ---
 
-## Stack Tecnológico
-
-### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,astro,html,css,js" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
-
-### Base de Datos
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=vue,react,astro,html,css,js,java,spring,postgresql,mysql" />
 </p>
 
 
