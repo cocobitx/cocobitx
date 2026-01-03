@@ -1,10 +1,10 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Web%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Desarrollador%web&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- PRESENTACIÓN -->
-<h1 align="center">👋 Hola, Soy Cristhian</h1>
+<h1 align="center">👋 Hola, Soy me llamo Cristhian</h1>
 
 <p align="center">
   <strong>Frontend • Backend • Arquitectura Moderna</strong>
