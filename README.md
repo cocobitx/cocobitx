@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Ni nombre es cristhian y construyo aplicaciones web modernas, escalables y bien estructuradas.<br/>
+  Mi nombre es cristhian y construyo aplicaciones web modernas, escalables y bien estructuradas.<br/>
   Enfocado en buenas prácticas, rendimiento y mantenibilidad con tecnologias como: <br>
   Vue 3, React.js, Astro, Java, Spring Boot y PostgreSQL
 </p>
