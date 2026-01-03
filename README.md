@@ -4,14 +4,14 @@
 </p>
 
 <!-- PRESENTACIÓN -->
-<h1 align="center">👋 Hola, Soy me llamo Cristhian</h1>
+<h1 align="center">👋 Hola, Bievenido</h1>
 
 <p align="center">
   <strong>Frontend • Backend • Arquitectura Moderna</strong>
 </p>
 
 <p align="center">
-  Construyo aplicaciones web modernas, escalables y bien estructuradas.<br/>
+  Ni nombre es cristhian y construyo aplicaciones web modernas, escalables y bien estructuradas.<br/>
   Enfocado en buenas prácticas, rendimiento y mantenibilidad con tecnologias como: <br>
   Vue 3, React.js, Astro, Java, Spring Boot y PostgreSQL
 </p>
