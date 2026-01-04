@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,astro,html,css,js,java,spring,laravel,python,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=vue,astro,html,css,sass,tailwindcss,js,java,spring,laravel,python,postgresql,mysql" />
 </p>
 
 
